@@ -62,9 +62,10 @@ No bugs found at the time of deploying the game on Heroku.
 Validators Testing
 
 The code has been tested by running it through the PeP8. Almost all of the errors that have been encountered were due to trailing whitespaces or either too many or not enough blank lines.
+
 There were some issues with the code being too long in some cases; however, after validating it in Black Python code formatter all issues were resolved. No errors were found at the final stage.
 
-![Screenshot_20221102_200354](https://user-images.githubusercontent.com/107796276/199841625-05c64799-daf9-4137-8c74-5b2a9d183bd6.png)
+![Screenshot_20221102_200354 (1)](https://user-images.githubusercontent.com/107796276/199847392-844c2e7a-f338-4cbd-985e-3de32d93d005.png)
 
 Browser Testing
 
