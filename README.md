@@ -43,13 +43,11 @@ More players could be added to the game in the future as the current code is wri
 
 Testing 
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+One of the obstacles during the game development was getting the ASCII design dice face. The images were not coming up getting broken on the lines. 
 
 Technologies Used
 
 The code was written in Python and the site was deployed using Heroku which is available via the link https://dashboard.heroku.com/apps/dicebreaker/deploy/github.
-
-.
 
 Python Libraries
 
