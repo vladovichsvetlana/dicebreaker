@@ -62,7 +62,7 @@ More players could be added to the game in the future as the current code is wri
 
 Testing 
 
-One of the obstacles during the game development was getting the ASCII design dice face. The images were not coming up getting broken on the lines. 
+One of the obstacles during the game development was getting the ASCII design dice face. The images were not coming up getting broken on the lines. I had to get some help with it from my mentor.
 
 Technologies Used
 
