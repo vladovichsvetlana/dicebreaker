@@ -55,6 +55,8 @@ Sys – to exit the programme. The sys module provides functions and variables u
 
 Random – used to generate or manipulate random numbers. It is used in a lot of games, lotteries or any application requiring a random number generation.  
 
+Black v22.10.0 - the uncompromising Python code formatter. Black reformats entire files in place.
+
 Unfixed bugs
 
 No bugs found at the time of deploying the game on Heroku. 
@@ -85,7 +87,7 @@ Go to 'Settings' section.
 
 Buildpacks will get generated. All future dependencies will be generated too (python and node.js). They install future dependencies that are needed outside of the requirements file. 
 
-Github is then connected after clicking on "Deploy" button. hub.
+Github is then connected after clicking on "Deploy" button. 
 
 The name of the correct repositery would need to be chosen first. It should then need to be connected via "Connect" button. The choice of the automatic and manual deployment will be offered too. 
 
@@ -102,6 +104,8 @@ I used the following resources:
 * how to stop the programme - https://www.hashbangcode.com/article/stopping-code-execution-python
 
 * tutorial on python - https://pythonbasics.org/multiple-return/
+
+* Playground for Black - the uncompromising Python code formatter - https://black.vercel.app/
 
 
 
