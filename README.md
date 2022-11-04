@@ -15,7 +15,7 @@ User Stories
 As the user opens the game a “Welcome message” greets the players. 
 "Hello everyone! Welcome to the dicebreaker game!"
 
-![Helloeveryone](https://user-images.githubusercontent.com/107796276/200061478-c39aeb8d-aa4f-456d-ab1e-81ffbae30a82.jpg)
+![hellomessage (2)](https://user-images.githubusercontent.com/107796276/200068302-a91d79bd-8955-4ebf-8552-6d1654cbaa08.jpg)
 
 Users are asked to type their names:  
 
