@@ -15,14 +15,35 @@ User Stories
 As the user opens the game a “Welcome message” greets the players. 
 "Hello everyone! Welcome to the dicebreaker game!"
 
-Users are asked to type their names.  
-Both players are asked to roll the dice. Whoever get the highest number of the face dice wins the chance to start answering questions first:
+![Helloeveryone](https://user-images.githubusercontent.com/107796276/200061478-c39aeb8d-aa4f-456d-ab1e-81ffbae30a82.jpg)
+
+Users are asked to type their names:  
+
+![twonames](https://user-images.githubusercontent.com/107796276/200061575-bf57feee-a105-4c83-a092-b350d466d211.jpg)
+
+Both players are asked to roll the dice: 
+
+![2ndplayerrolls](https://user-images.githubusercontent.com/107796276/200061416-e4e0c011-c841-4617-a527-b913a769cdec.jpg)
+
+In case of the draw, the players are asked to roll the dice again:
+
+![drawdice](https://user-images.githubusercontent.com/107796276/200061459-54d58b3e-c999-49ab-baa0-c15b7ef0535b.jpg)
+
+Whoever get the highest number of the face dice wins the chance to start answering questions first:
 
 Player … wins! - you get to answer the question
 
-The winning player rolls the dice again. The question from the array auto populates according to the dice face number rolled by the player. The array has 6 questions (each question is assigned to certain dice face).
+![mariawins](https://user-images.githubusercontent.com/107796276/200061532-229cc166-5906-46ea-bd9c-e9b0ca5f95e4.jpg)
+
+The winning player rolls the dice again. The question from the array auto populates according to the dice face number rolled by the player. 
+
+![mariaanswersquestion](https://user-images.githubusercontent.com/107796276/200061506-296ca050-75cd-4290-9947-0a93c9749e92.jpg)
+
+The array has 6 questions (each question is assigned to certain dice face).
 
 The dice face of the chosen question is displayed. The player will be asked to continue the game or to quit the game. If the player is choosing to quit the game the message will come up “Good Bye. Thank you for playing".
+
+![mariaansweredaskedtoquit](https://user-images.githubusercontent.com/107796276/200061491-fa86f42b-1934-4ae9-85f9-10a1bb63e244.jpg)
 
 Invalid name entry
 
@@ -34,8 +55,6 @@ Python Logic
 I have prepared the following flowchart. This flowchart allowed me to follow the structure of the game during the process. 
 
 Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-Features
 
 Future Features
 
