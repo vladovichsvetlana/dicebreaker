@@ -1,4 +1,4 @@
-![dice breaker image](https://user-images.githubusercontent.com/107796276/199841591-95fb5521-a9ca-4aa3-9f4e-386e56c1c13f.jpg)
+![DICEBREAKERINTRO](https://user-images.githubusercontent.com/107796276/200064016-aaedbe5d-e0f7-4def-83cb-e5d1f0b3ef04.jpg)
 
 Dicebreaker
 
