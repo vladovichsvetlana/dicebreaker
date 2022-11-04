@@ -54,7 +54,7 @@ Python Logic
 
 I have prepared the following flowchart. This flowchart allowed me to follow the structure of the game during the process. 
 
-Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+![FLOWCHART](https://user-images.githubusercontent.com/107796276/200076175-62cb0b7e-15b9-46e3-a61a-0d468631f3f3.jpg)
 
 Future Features
 
